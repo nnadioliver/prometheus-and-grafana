@@ -1,2 +1,1 @@
-# prometheus-grafana
-prometheus-grafana
+# prometheus-monitoring
